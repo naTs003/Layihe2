@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;1,300&family=Montserrat:ital,wght@0,400;1,500&family=Roboto+Slab:wght@700&family=Roboto:wght@400;500;700&display=swap');
+
+body {
+    font-family: 'Roboto';
+    background: #EFEFEF;
+}
+
+.square {
+    position: absolute;
+    width: 791px;
+    height: 451px;
+    left: 126px;
+    top: 218px;
+    background: #FFFFFF;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+h1 {
+    position: absolute;
+    width: 987px;
+    height: 93px;
+    left: 10px;
+    top: -150px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+    color: #000000;
+}
+
+h2 {
+    position: absolute;
+    width: 353px;
+    height: 59px;
+    left: 246px;
+    top: 265px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 101.38%;
+    color: #000000;
+}
+
+text {
+    position: absolute;
+    width: 700px;
+    height: 203px;
+    left: 45px;
+    top: 40px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    color: #000000;
+}
+
+.woman {
+    position: absolute;
+    width: 190px;
+    height: 169px;
+    left: 26px;
+    top: 253px;
+    background: url(woman.png);
+}
+
+.fb {
+    position: absolute;
+    width: 32px;
+    height: 31px;
+    left: 246px;
+    top: 352px;
+    background: url(fb.png);
+}
